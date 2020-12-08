@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Angular (NgRx, Nx, RxJS), Python (Flask, aiohttp)
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=envil&count_private=true&show_icons=true" alt="vietanhdev" /></p></div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=envil&label=Profile%20views&color=0e75b6&style=flat" alt="vietanhdev" /> </p>
