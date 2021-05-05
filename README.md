@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Angular (NgRx, Nx, RxJS), Python (Flask, aiohttp)
+- 🔭 I’m currently working on Node (NestJS, RxJS)
+- 💬 Ask me about Angular (NgRx, Nx, RxJS)
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=envil&count_private=true&show_icons=true" alt="vietanhdev" /></p></div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=envil&label=Profile%20views&color=0e75b6&style=flat" alt="vietanhdev" /> </p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=envil&count_private=true&show_icons=true" alt="envilstats" /></p></div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=envil&label=Profile%20views&color=0e75b6&style=flat" alt="envilstats" /> </p>
